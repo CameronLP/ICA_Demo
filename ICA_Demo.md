@@ -1,0 +1,10 @@
+# ICA Demo
+- HYPSO-1 Anomaly Detection using Independent Component Analysis (ICA) 
+
+## Setup
+- Install Anaconda from [here](https://www.anaconda.com/download).
+- Clone the repository to your computer using Git.
+- Navigate to repository in a terminal.
+- Run ´conda env create -f environment.yml´. The required Python packages will be installed. 
+- Launch Jupyter Notebook with the command ´jupyter-notebook´.
+- In Jupyter, open the notebook ´ICA_Demo.ipynb´.
