@@ -7,5 +7,5 @@
 - Navigate to repository in a terminal.
 - Run `conda env create -f environment.yml`. The required Python packages will be installed.
 - Run `conda activate ica_demo`
-- Launch Jupyter Notebook with the command `jupyter-notebook`.
+- Launch Jupyter Notebook with the command `jupyter-notebook`. This will launch Jupyter Notebook in a web browser.
 - In Jupyter, open the notebook ICA_Demo.ipynb.
